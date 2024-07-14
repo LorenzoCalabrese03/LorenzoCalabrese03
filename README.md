@@ -30,6 +30,14 @@ Here is a selection of projects I have worked on:
 
 #### Technical Skills
 - **Programming Languages**: C, Java, Python, JS.
+  <div align="left">
+    <!-- Replace with your framework skills -->
+   <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB" alt="C"/>
+   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=#ff3300" alt="Java"/>
+   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FB8261" alt="Python"/>
+   <img src="https://img.shields.io/badge/Java Script-20232A?style=for-the-badge&logo=javascript&logoColor=FB8261" alt="Java script"/>
+
+</div>
 - **Frameworks and Libraries**:
 <div align="left">
     <!-- Replace with your framework skills -->
@@ -43,11 +51,14 @@ Here is a selection of projects I have worked on:
 - <div align="left">
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
    <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
+   
+####GitHub Stats
+   Peek into my GitHub stat to see how I juggle code
 </div>
-<div align="center">
+<div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
 </div>
+
 #### Goals
 I am motivated to continue learning and improving my skills in the field of computer science. My goal is to contribute to innovative and impactful projects, and to collaborate with other developers to create high-quality software solutions.
 
