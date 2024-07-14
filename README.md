@@ -30,7 +30,12 @@ Here is a selection of projects I have worked on:
 
 #### Technical Skills
 - **Programming Languages**: C, Java, Python, JS.
-- **Frameworks and Libraries**:  React.
+- **Frameworks and Libraries**:  React, NPM, Node.js, Visula Studio Code, Vite.
+- <div align="center">
+    <!-- Replace with your framework skills -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <!-- Add more badges similarly -->
+</div>
 - **Tools and Technologies**: Git, MongoDB.
 
 #### Goals
