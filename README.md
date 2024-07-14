@@ -37,6 +37,7 @@ Here is a selection of projects I have worked on:
    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 </div>
+
  **Frameworks and Libraries**:
    <div align="left">
     <!-- Replace with your framework skills -->
@@ -46,6 +47,7 @@ Here is a selection of projects I have worked on:
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
 
 </div>
+
  **Tools and Technologies**:
    <div align="left">
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
@@ -54,6 +56,7 @@ Here is a selection of projects I have worked on:
    
 #### GitHub Stats
    **Peek into my GitHub stat to see how I juggle code**
+   
 </div>
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
