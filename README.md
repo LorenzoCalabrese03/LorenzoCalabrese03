@@ -36,12 +36,14 @@ Here is a selection of projects I have worked on:
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#ff3300" alt="Node.js"/>
    <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=FB8261" alt="NPM"/>
-   <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" alt="VScode"/>
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+
 </div>
 - **Tools and Technologies**: Git, MongoDB.
 - <div align="left">
-   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB" alt="Git"/>
-   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongoDB&logoColor=05D028" alt="MongoDB"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
 </div>
 
 #### Goals
