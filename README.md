@@ -19,19 +19,13 @@ Here is a selection of projects I have worked on:
    - **Wiki-Integrated Privacy Knowledge Base**: Detailed guidance on data protection practices.
    - **Element Mapping**: Visual maps to help understand complex privacy regulations.
    - **User-Friendly Interface**: Intuitive design for easy navigation and use.
-
-  #### Objectives
-     Provide a complete and easy-to-use tool for managing data privacy challenges in the digital age.
-
   #### Repository
-     Explore and contribute to PrivacyGuard [(link-to-repository)](https://github.com/LorenzoCalabrese03/POSD_System?tab=readme-ov-file). Together, we can
-     enhance data privacy and security..
+     [(link-to-repository)](https://github.com/LorenzoCalabrese03/POSD_System?tab=readme-ov-file).
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
   <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/POSD_System/output/github-contribution-grid-dark-mode-only" alt="GitHub Contribution Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/POSD_System/output/github-contribution-grid-light-mode-only" alt="GitHub Contribution Light Mode"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/github-contribution-grid?username=LorenzoCalabrese03&theme=github_dark" alt="GitHub Contribution Light Mode"/>
 </div>
 
 
