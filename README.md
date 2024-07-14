@@ -31,15 +31,18 @@ Here is a selection of projects I have worked on:
 #### Technical Skills
 - **Programming Languages**: C, Java, Python, JS.
 - **Frameworks and Libraries**:  React, NPM, Node.js, Visula Studio Code, Vite.
-- <div align="right">
+- <div align="left">
     <!-- Replace with your framework skills -->
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/Node.js-20232B?style=for-the-badge&logo=node.js&logoColor=#ff3300" alt="Node.js"/>
+   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#ff3300" alt="Node.js"/>
    <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=#cc0033" alt="NPM"/>
-   <img src="https://img.shields.io/badge/Visual studio code-20232A?style=for-the-badge&logo=Visual Studi Code&logoColor=#660099" alt="VScode"/>
-   
+   <img src="https://img.shields.io/badge/Visual studio code-20232A?style=for-the-badge&logo=vscode&logoColor=#660099" alt="VScode"/>
 </div>
 - **Tools and Technologies**: Git, MongoDB.
+<div align="left">
+   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB" alt="Git"/>
+   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" alt="MongoDB"/>
+</div>
 
 #### Goals
 I am motivated to continue learning and improving my skills in the field of computer science. My goal is to contribute to innovative and impactful projects, and to collaborate with other developers to create high-quality software solutions.
