@@ -36,7 +36,9 @@ Here is a selection of projects I have worked on:
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#ff3300" alt="Node.js"/>
    <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=FB8261" alt="NPM"/>
-   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+   <img src="https://img.shields.io/badge/visual-studio-code-2019.png-20232A?style=for-the-badge&logo=visual-studio-code-2019.png&logoColor=FB8261" alt="VSCode"/>
+
+   
 
 
 </div>
