@@ -38,9 +38,6 @@ Here is a selection of projects I have worked on:
    <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=FB8261" alt="NPM"/>
    <img src="https://img.shields.io/badge/visual-studio-code-2019-20232A?style=for-the-badge&logo=visual-studio-code-2019&logoColor=FB8261" alt="VSCode"/>
 
-   
-
-
 </div>
 - **Tools and Technologies**: Git, MongoDB.
 - <div align="left">
@@ -48,7 +45,9 @@ Here is a selection of projects I have worked on:
    <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 </div>
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcalabrese28&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
+</div>
 #### Goals
 I am motivated to continue learning and improving my skills in the field of computer science. My goal is to contribute to innovative and impactful projects, and to collaborate with other developers to create high-quality software solutions.
 
