@@ -33,7 +33,7 @@ Here is a selection of projects I have worked on:
   <div align="left">
     <!-- Replace with your framework skills -->
    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 </div>
