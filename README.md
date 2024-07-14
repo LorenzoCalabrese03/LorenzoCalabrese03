@@ -34,7 +34,11 @@ Here is a selection of projects I have worked on:
 - <div align="right">
     <!-- Replace with your framework skills -->
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" alt="Node.js"/>
+   <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" alt="Vite"/>
+   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=009900" alt="Node.js"/>
+   <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB" alt="NPM"/>
+   <img src="https://img.shields.io/badge/Visual Studi Code-20232A?style=for-the-badge&logo=Visual Studi Code&logoColor=660099" alt="Visual Studi Code"/>
+   
 </div>
 - **Tools and Technologies**: Git, MongoDB.
 
