@@ -29,31 +29,31 @@ Here is a selection of projects I have worked on:
 
 
 #### Technical Skills
-- **Programming Languages**: C, Java, Python, JS.
+- **Programming Languages**:
   <div align="left">
     <!-- Replace with your framework skills -->
-   <img src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB" alt="C"/>
-   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=#ff3300" alt="Java"/>
-   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FB8261" alt="Python"/>
-   <img src="https://img.shields.io/badge/Java Script-20232A?style=for-the-badge&logo=javascript&logoColor=FB8261" alt="Java script"/>
-
+   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 </div>
 - **Frameworks and Libraries**:
 <div align="left">
     <!-- Replace with your framework skills -->
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#ff3300" alt="Node.js"/>
-   <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=FB8261" alt="NPM"/>
-   <img src="https://img.shields.io/badge/visual-studio-code-2019-20232A?style=for-the-badge&logo=visual-studio-code-2019&logoColor=FB8261" alt="VSCode"/>
+   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
+   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
 
 </div>
-- **Tools and Technologies**: Git, MongoDB.
+- **Tools and Technologies**:
 - <div align="left">
-   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+
    
-####GitHub Stats
-   Peek into my GitHub stat to see how I juggle code
+#### GitHub Stats
+   **Peek into my GitHub stat to see how I juggle code
 </div>
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
