@@ -11,18 +11,18 @@ Here is a selection of projects I have worked on:
 - **POSD System**:
    ### PrivacyGuard: Data Privacy Management Platform
   
-  #### Overview
+  ### Overview
 PrivacyGuard is a wiki-based web application designed to manage privacy and data security. It helps businesses comply with regulations like GDPR by offering a comprehensive knowledge base and detailed maps of privacy elements.
 
-  #### Key Features
+  ### Key Features
 - **Wiki-Integrated Privacy Knowledge Base**: Detailed guidance on data protection practices.
 - **Element Mapping**: Visual maps to help understand complex privacy regulations.
 - **User-Friendly Interface**: Intuitive design for easy navigation and use.
 
-  #### Objectives
+  ### Objectives
 Provide a complete and easy-to-use tool for managing data privacy challenges in the digital age.
 
-  #### Repository
+  ### Repository
 Explore and contribute to PrivacyGuard [(link-to-repository)](https://github.com/LorenzoCalabrese03/POSD_System?tab=readme-ov-file). Together, we can enhance data privacy and security..
 
 
