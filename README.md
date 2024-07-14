@@ -46,7 +46,7 @@ Here is a selection of projects I have worked on:
 
 </div>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcalabrese28&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
 </div>
 #### Goals
 I am motivated to continue learning and improving my skills in the field of computer science. My goal is to contribute to innovative and impactful projects, and to collaborate with other developers to create high-quality software solutions.
