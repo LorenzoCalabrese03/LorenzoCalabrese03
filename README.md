@@ -33,11 +33,8 @@ Here is a selection of projects I have worked on:
 - **Frameworks and Libraries**:  React, NPM, Node.js, Visula Studio Code, Vite.
 - <div align="right">
     <!-- Replace with your framework skills -->
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.3092j3IFPgDZ1qpCAyxkkQHaHa%26pid%3DApi&f=1&ipt=88fe499a70c801442c47d5aae1438c08d243c568f0af2bd54e4cf6fd4022a7cf&ipo=images)"/>
-    <img src="(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oScemLmbnW2z41ldSX45KQHaEB%26pid%3DApi&f=1&ipt=e4f6450f19585c2eaba0805da6b359597b948e53a75b2284570a7bb0b009fb28&ipo=images)"/>
-    <img src="(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Nb3zKVr3XQCiaoa7Mei41QHaFh%26pid%3DApi&f=1&ipt=c8eac7f401445bc4f27262d1a1931218fa42919b107122246f39b7d8d636595b&ipo=images)"/>
-    <img src="(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.4g12a0DHzDmj1m9P7V7X8gAAAA%26pid%3DApi&f=1&ipt=aae741e4a77a472faf07d4033c5fe64b58a9c69d637ebd87a4051e06da11e09c&ipo=images)"/>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB" alt="Node.js"/>
 </div>
 - **Tools and Technologies**: Git, MongoDB.
 
