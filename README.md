@@ -22,13 +22,6 @@ Here is a selection of projects I have worked on:
   #### Repository
      [(link-to-repository)](https://github.com/LorenzoCalabrese03/POSD_System?tab=readme-ov-file).
 
-<div align="center">
-  <h2>🚀 Github Commits</h2>
-  <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/github-contribution-grid?username=LorenzoCalabrese03&theme=github_dark" alt="GitHub Contribution Light Mode"/>
-</div>
-
-
 #### Technical Skills
  **Programming Languages**:
   <div align="left">
