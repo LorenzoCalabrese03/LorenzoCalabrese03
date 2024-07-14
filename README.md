@@ -37,7 +37,7 @@ Here is a selection of projects I have worked on:
    <img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" alt="Vite"/>
    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#009900" alt="Node.js"/>
    <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=#cc0033" alt="NPM"/>
-   <img src="https://img.shields.io/badge/VScode-20232A?style=for-the-badge&logo=Visual Studi Code&logoColor=#660099" alt="Visual Studi Code"/>
+   <img src="https://img.shields.io/badge/Visual Studio Code-20232A?style=for-the-badge&logo=Visual Studi Code&logoColor=#660099" alt="VScode"/>
    
 </div>
 - **Tools and Technologies**: Git, MongoDB.
