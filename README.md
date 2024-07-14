@@ -36,12 +36,12 @@ Here is a selection of projects I have worked on:
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=#ff3300" alt="Node.js"/>
    <img src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=FB8261" alt="NPM"/>
-   <img src="https://img.shields.io/badge/VS Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=#660099" alt="VScode"/>
+   <img src="(https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png)" alt="VScode"/>
 </div>
 - **Tools and Technologies**: Git, MongoDB.
 - <div align="left">
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB" alt="Git"/>
-   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongoDB&logoColor=61DAFB" alt="MongoDB"/>
+   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongoDB&logoColor=05D028" alt="MongoDB"/>
 </div>
 
 #### Goals
