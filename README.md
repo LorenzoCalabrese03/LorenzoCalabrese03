@@ -72,7 +72,7 @@ Here is a selection of projects I have worked on:
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LorenzoCalabrese03&theme=github_dark&utcOffset=10" alt="Lorenzo's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lorenzocalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
     </tr>
  </table>
