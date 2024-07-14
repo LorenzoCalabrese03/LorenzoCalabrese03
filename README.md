@@ -27,6 +27,12 @@ Here is a selection of projects I have worked on:
      Explore and contribute to PrivacyGuard [(link-to-repository)](https://github.com/LorenzoCalabrese03/POSD_System?tab=readme-ov-file). Together, we can
      enhance data privacy and security..
 
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/LorenzoCalabrese03/output/github-contribution-grid-dark-mode-only" alt="GitHub Contribution Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/LorenzoCalabrese03/output/github-contribution-grid-light-mode-only" alt="GitHub Contribution Grid Light Mode"/>
+</div>
 
 #### Technical Skills
  **Programming Languages**:
