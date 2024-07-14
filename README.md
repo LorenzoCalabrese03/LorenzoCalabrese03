@@ -38,7 +38,7 @@ Here is a selection of projects I have worked on:
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 </div>
 - **Frameworks and Libraries**:
-<div align="left">
+   <div align="left">
     <!-- Replace with your framework skills -->
    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
@@ -47,7 +47,7 @@ Here is a selection of projects I have worked on:
 
 </div>
 - **Tools and Technologies**:
-- <div align="left">
+   <div align="left">
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 
