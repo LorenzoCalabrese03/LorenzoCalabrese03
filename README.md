@@ -29,10 +29,11 @@ Here is a selection of projects I have worked on:
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/LorenzoCalabrese03/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/LorenzoCalabrese03/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only" alt="GitHub Contribution Grid Light Mode"/>
+  <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/lcalabrese28/output/github-contribution-grid-dark-mode-only" alt="GitHub Contribution Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/LorenzoCalabrese03/lcalabrese28/output/github-contribution-grid-light-mode-only" alt="GitHub Contribution Light Mode"/>
 </div>
+
 
 #### Technical Skills
  **Programming Languages**:
