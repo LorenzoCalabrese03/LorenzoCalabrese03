@@ -33,7 +33,7 @@ Here is a selection of projects I have worked on:
   <div align="left">
     <!-- Replace with your framework skills -->
    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 </div>
@@ -45,6 +45,7 @@ Here is a selection of projects I have worked on:
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
    <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
 
 </div>
 
@@ -52,14 +53,29 @@ Here is a selection of projects I have worked on:
    <div align="left">
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-
    
 #### GitHub Stats
    **Peek into my GitHub stat to see how I juggle code**
    
-</div>
-<div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LorenzoCalabrese03&theme=github_dark&utcOffset=10" alt="Lorenzo's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
+    </tr>
+ </table>
 </div>
 
 #### Goals
