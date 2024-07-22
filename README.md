@@ -36,6 +36,7 @@ Here is a selection of projects I have worked on:
    <div align="left">
     <!-- Replace with your framework skills -->
    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
    <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
