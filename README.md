@@ -78,8 +78,12 @@ I am motivated to continue learning and improving my skills in the field of comp
 
 #### Contact
 <div align="left">
-   <a href="mailto:lorenzocalabrese.aziendale@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/email.png"/></a>
-   <a href="https://www.linkedin.com/in/lorenzo-calabrese-667a44276"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+   
+<code><a href="https://www.linkedin.com/in/lorenzo-calabrese-667a44276/"><img alt="Linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a></code>
+<code><a href="mailto://lorenzocalabrese.aziendale@gmail.com"><img alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" /></a></code>
+<code><a href="https://www.facebook.com/lorenzo.calabrese_"><img alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" /></a></code>
+<code><a href="https://www.instagram.com/lorenzo.calabrese_"><img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a></code>
+
 </div>
 
 
