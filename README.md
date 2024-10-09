@@ -11,16 +11,6 @@ Here is a selection of projects I have worked on:
 - **POSD System**:
    ### PrivacyGuard: Data Privacy Management Platform
   
-  ##### Overview
-     PrivacyGuard is a wiki-based web application designed to manage privacy and data security. It helps businesses comply with regulations like GDPR by
-     offering a comprehensive knowledge base and detailed maps of privacy elements.
-
-  ##### Key Features
-   - **Wiki-Integrated Privacy Knowledge Base**: Detailed guidance on data protection practices.
-   - **Element Mapping**: Visual maps to help understand complex privacy regulations.
-   - **User-Friendly Interface**: Intuitive design for easy navigation and use.
-  #### Repository
-     [(link-to-repository)](https://github.com/LorenzoCalabrese03/POSD_System?tab=readme-ov-file).
 
 #### Technical Skills
  **Programming Languages**:
@@ -65,10 +55,10 @@ Here is a selection of projects I have worked on:
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LorenzoCalabrese03&theme=github_dark&utcOffset=10" alt="Lorenzo's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorenzoCalabrese03&theme=transparent" alt="Lorenzo's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LorenzoCalabrese03&theme=transparent&utcOffset=10" alt="Lorenzo's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorenzoCalabrese03&theme=transparent" alt="Lorenzo's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorenzoCalabrese03&theme=transparent" alt="Lorenzo's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
