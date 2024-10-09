@@ -77,7 +77,10 @@ Here is a selection of projects I have worked on:
 I am motivated to continue learning and improving my skills in the field of computer science. My goal is to contribute to innovative and impactful projects, and to collaborate with other developers to create high-quality software solutions.
 
 #### Contact
-- **Email**: lorenzocalabrese.aziendale@gmail.com
-- **LinkedIn**: www.linkedin.com/in/lorenzo-calabrese-667a44276
+<div align="left">
+   <a href="mailto:lorenzocalabrese.aziendale@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/email.png"/></a>
+   <a href="https://www.linkedin.com/in/lorenzo-calabrese-667a44276"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+</div>
+
 
 Thank you for visiting my GitHub profile! Feel free to contact me for collaborations or questions about my projects.
