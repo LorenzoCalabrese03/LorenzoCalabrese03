@@ -1,80 +1,142 @@
-### Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm Lorenzo Calabrese</h1>
+<h3 align="center">Born in 2003, I am a student at the University of Bari Aldo Moro. I am currently studying Computer Science and Software Development Technologies (ITPS) at the Department of Computer Science.</h3>
 
-#### About Me
-My name is Lorenzo Calabrese, born in 2003, and I am a student at the University of Bari Aldo Moro. I am currently studying Computer Science and Software Development Technologies (ITPS) at the Department of Computer Science.
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lorenzocalabrese03&row=1&column=6&theme=gruvbox&no-frame=true" alt="lorenzocalabrese03" />
+  </a>
+</p>
 
-#### My Journey
-I am passionate about technology and software development. Although I am new to the professional world of computer science, I have already begun building my experience with several software projects. Each project I work on is an opportunity for me to learn and grow as a developer.
+- 🌱 I’m currently learning **Next.js, Linux**
 
-#### My Projects
-Here is a selection of projects I have worked on:
-- **POSD System**:
-   ### PrivacyGuard: Data Privacy Management Platform
+- 💬 Ask me about **React**
+
+- ⚡ Fun fact: **I am passionate about technology and software development. Although I am new to the professional world of computer science, I have already begun building my experience with several software projects. Each project I work on is an opportunity for me to learn and grow as a developer.**
+---
+<h3>Languages</h3>
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+     <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
+<h3>Freamwork</h3>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" widht="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" widht="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
+  </a>
+   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+   </a>
+   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  </a>
+
+<h3>OS</h3>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/it-it/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" />
+  </a>
+<h3>Data Base</h3>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+<h3>Tools:</h3>
+ <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2023%2F05%2F08%2F00%2F43%2Fchatgpt-7977357_640.png&f=1&nofb=1&ipt=6cd311d4055f7eb7fe543b6fd5120928600fa3d942fbe1d612194b43047c9c5b&ipo=images" alt="ChatGPT" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  </a>
   
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
 
-#### Technical Skills
- **Programming Languages**:
-  <div align="left">
-    <!-- Replace with your framework skills -->
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-</div>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+<h3>IDE</h3> 
+ <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40" />
+  </a>
+       <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" height="40" />
+  </a>
+   <a href="https://eclipseide.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"  />
+  </a>
+  
+---
 
- **Frameworks and Libraries**:
-   <div align="left">
-    <!-- Replace with your framework skills -->
-   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
-   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/>
-   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
-   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-
-</div>
-
- **Tools and Technologies**:
-   <div align="left">
-   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-   
-#### GitHub Stats
-   **Peek into my GitHub stat to see how I juggle code**
-   
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/lorenzo-calabrese-667a44276" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/lorenzo.calabrese_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/lorenzo.calabrese_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+   <a href="mailto:lorenzocalabrese.aziendale@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IpB5yPUkCFHOzlmM-O7ncAHaFW%26pid%3DApi&f=1&ipt=e54e6924daf2c63f0e46035ea360d822e1265ab3d5be7c95a328f31c7fdd995a&ipo=images" alt="Email Icon" align="center" 
+ height="30" width="40"/></a>
+</p>
+  
+            
+          
+---
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorenzoCalabrese03&theme=github_dark" alt="Lorenzo's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=LorenzoCalabrese03&theme=merko" alt="Lorenzo's Contribution Streak"/></td>
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LorenzoCalabrese03&theme=transparent" alt="Lorenzo's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LorenzoCalabrese03&theme=transparent&utcOffset=10" alt="Lorenzo's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorenzoCalabrese03&theme=transparent" alt="Lorenzo's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorenzoCalabrese03&theme=transparent" alt="Lorenzo's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
-
-#### Goals
-I am motivated to continue learning and improving my skills in the field of computer science. My goal is to contribute to innovative and impactful projects, and to collaborate with other developers to create high-quality software solutions.
-
-#### Contact
-<div align="left">
-   
-<code><a href="https://www.linkedin.com/in/lorenzo-calabrese-667a44276/"><img alt="Linkedln" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" /></a></code>
-<code><a href="mailto://lorenzocalabrese.aziendale@gmail.com"><img alt="Mail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png" /></a></code>
-<code><a href="https://www.facebook.com/lorenzo.calabrese_"><img alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/768px-Facebook_f_logo_%282019%29.svg.png" /></a></code>
-<code><a href="https://www.instagram.com/lorenzo.calabrese_"><img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a></code>
-
+   <h3>GitHub Stats:</h3>
+   <div style="display: flex; justify-content: center; gap: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzocalabrese03&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lorenzocalabrese03&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" height="200px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzocalabrese03&theme=transparent" alt="GitHub Streak" height="200px" />
+   </div>
 </div>
 
 
-Thank you for visiting my GitHub profile! Feel free to contact me for collaborations or questions about my projects.
