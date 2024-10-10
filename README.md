@@ -130,13 +130,15 @@
             
           
 ---
-<div align="center">
+<div>
    <h3>GitHub Stats:</h3>
    <div style="display: flex; justify-content: center; gap: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzocalabrese03&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" height="200px" />
       <img src="https://github-readme-stats.vercel.app/api?username=lorenzocalabrese03&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" height="200px" />
+     <div>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzocalabrese03&theme=transparent" alt="GitHub Streak" height="200px" />
-   </div>
+     </div>
+     </div>
 </div>
 
 
