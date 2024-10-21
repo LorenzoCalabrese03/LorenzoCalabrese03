@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Calabrese</h1>
+<div align="center"> 
+  
+# Hi 👋, I'm Lorenzo Calabrese       | <a href="./README/README_Italy.md"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fm%2F62-627341_italian-flag-icon-png-flag-of-italy-circle.png&f=1&nofb=1&ipt=ad25eb8286d42fb20bbb70ee1355dd7f99d32b19acc932eb57d7d437ff3ddadb&ipo=images" alt="Italy" height="30" width="30"></a> | <a href="./README/README_Spain.md"><img src="https://www.pikpng.com/pngl/m/243-2437383_spanish-flag-01-map-of-spain-spanish-flag.png" alt="Spain" height="30" width="30"></a> |
+
+</div>
+
 <h3 align="center">Born in 2003, I am a student at the University of Bari Aldo Moro. I am currently studying Computer Science and Software Development Technologies (ITPS) at the Department of Computer Science.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lorenzocalabrese03&row=1&column=6&theme=gruvbox&no-frame=true" alt="lorenzocalabrese03" />
-  </a>
-</p>
+
 
 - 🌱 I’m currently learning **Next.js, Linux**
 
