@@ -7,9 +7,9 @@
 <h3 align="center">Nacido en 2003, soy un estudiante en la Universidad de Bari Aldo Moro. Actualmente estudio Computer Science and Software Development Technologies (ITPS) en el Departamento de Informática
 </h3>
 
-- 🌱 Actualmente estoy aprendiendo: **Next.js, Linux**
+- 🌱 Actualmente estoy aprendiendo: **Python, Docker, Flexim**
 
-- 💬 Pregúntame sobre: **React**
+- 💬 Pregúntame sobre: **React, Next.js**
 
 - ⚡Curiosidad: **Soy un apasionado de la tecnología y el desarrollo de software. Aunque soy nuevo en el mundo profesional de la informática, ya he comenzado a construir mi experiencia con varios proyectos de software. Cada proyecto en el que trabajo es una oportunidad para aprender y crecer como desarrollador.**
 
