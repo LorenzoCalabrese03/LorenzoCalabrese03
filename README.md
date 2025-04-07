@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Next.js, Linux**
+- 🌱 I’m currently learning **Python, Docker, Flexim**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Next.js**
 
 - ⚡ Fun fact: **I am passionate about technology and software development. Although I am new to the professional world of computer science, I have already begun building my experience with several software projects. Each project I work on is an opportunity for me to learn and grow as a developer.**
 ---
