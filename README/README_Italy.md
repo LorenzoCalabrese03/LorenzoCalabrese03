@@ -6,9 +6,9 @@
 
 <h3 align="center">Nato nel 2003, sono uno studente all'Università degli Studi di Bari Aldo Moro. Attualmente studio Tecnologie Informatiche e Sviluppo del Software (ITPS) presso il Dipartimento di Informatica.</h3>
 
-- 🌱 Attualmente sto imparando **Next.js, Linux**
+- 🌱 Attualmente sto imparando **Python, Docker, Flexim**
 
-- 💬 Chiedimi di **React**
+- 💬 Chiedimi di **React, Next.js**
 
 - ⚡ Curiosità: **Sono appassionato di tecnologia e sviluppo software. Anche se sono nuovo nel mondo professionale dell'informatica, ho già iniziato a costruire la mia esperienza con diversi progetti software. Ogni progetto a cui lavoro è un'opportunità per imparare e crescere come sviluppatore.**
 
