@@ -118,12 +118,6 @@
   <a href="https://linkedin.com/in/lorenzo-calabrese-667a44276" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/lorenzo.calabrese_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/lorenzo.calabrese_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
    <a href="mailto:lorenzocalabrese.aziendale@gmail.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IpB5yPUkCFHOzlmM-O7ncAHaFW%26pid%3DApi&f=1&ipt=e54e6924daf2c63f0e46035ea360d822e1265ab3d5be7c95a328f31c7fdd995a&ipo=images" alt="Email Icon" align="center" 
  height="30" width="40"/></a>
 </p>
